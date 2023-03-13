@@ -4,6 +4,8 @@ This is a simple Python program that uses the Selenium WebDriver to search for b
 The user can access the link of the book by entering its index.
 
 To use the program, simply run "python book_searcher.py" on your terminal.
+
+
 **Note**: Don't forget to change the email and password fields in the code to your own information before running the program.
 
 Here are some screenshots of the program.
